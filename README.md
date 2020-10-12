@@ -4,7 +4,7 @@ Compile Python File<br>Work for python2 & python3
 ```
 $ pkg install python
 $ pkg install git
-$ git clone https://github.com/KANG-NEWBIE/PyCompile
+$ git clone https://github.com/MaulanaRyM/compiler
 $ cd compiler
 $ python compile.py
         OR
